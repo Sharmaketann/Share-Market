@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\bin\Debug\Project 2.0.exe.config
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\bin\Debug\Project 2.0.exe
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\bin\Debug\Project 2.0.pdb
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\bin\Debug\Project 2.0.xml
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project 2.0.vbprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project_2._0.Form1.resources
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project_2._0.Resources.resources
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project 2.0.vbproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project 2.0.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project 2.0.exe
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project 2.0.xml
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project 2.0.pdb
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project_2._0.Form2.resources
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project_2._0.Form3.resources
+C:\Users\lenovo\source\repos\Project 2.0\Project 2.0\obj\Debug\Project_2._0.Form4.resources
